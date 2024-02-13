@@ -1,0 +1,1 @@
+creats a text2.txt file
